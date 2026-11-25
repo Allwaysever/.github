@@ -3,7 +3,7 @@
   <img src="images/Allwaysever-Profile.png" alt="Allwaysever Logo" width="400">
 </p>
 
-<h1 align="center">All ways to create 4-ever 🚀</h1>
+<h1 align="center">All ways to create 4-ever</h1>
 
 <p align="center">
   <b>A random Studio that creates works that are not just websites and code.</b><br>
