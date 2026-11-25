@@ -1,9 +1,7 @@
 <!-- Ganti URL di bawah ini dengan URL gambar logo kamu setelah di-upload ke folder profile -->
 <p align="center">
-  <img src="images/Allwaysever-Profile.png" alt="Allwaysever Logo" width="400">
+  <img src="images/Banner.jpg" alt="Banner" width="400">
 </p>
-
-<h1 align="center">All ways to create 4-ever</h1>
 
 <p align="center">
   <b>A random Studio that creates works that are not just websites and code.</b><br>
@@ -53,13 +51,13 @@ Here are some of the things we've been crafting:
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <h3>SuperRoundedUI</h3>
       <p>A pure-CSS design system that combines warmth, friendliness, and efficiency. Built without a single line of JavaScript in its core, exclusively optimized for Dark Environments.</p>
       <p><b>Stack:</b> <code>CSS</code></p>
       <a href="https://github.com/Allwaysever/SuperRoundedUI"><b>Explore Repository →</b></a>
     </td>
-    <td width="50%">
+    <td>
       <h3>epubCreator.js</h3>
       <p>A Node CLI App designed to make creating EPUB files easier and faster directly from your terminal.</p>
       <p><b>Stack:</b> <code>Node.js</code>, <code>JS</code></p>
@@ -67,13 +65,13 @@ Here are some of the things we've been crafting:
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td>
       <h3>MirAI (Archived)</h3>
       <p>A simple, lightweight, and responsive web interface to interact directly with the Google Gemini API.</p>
       <p><b>Stack:</b> <code>HTML</code>, <code>CSS</code>, <code>JS</code></p>
       <a href="https://github.com/Allwaysever/MirAI"><b>View Project →</b></a>
     </td>
-    <td width="50%">
+    <td>
       <h3>AllwayseverOriginalsWeb</h3>
       <p>The original web space for our projects. Simple, straightforward, and built from scratch.</p>
       <p><b>Stack:</b> <code>HTML</code></p>
